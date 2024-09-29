@@ -1,0 +1,22 @@
+[
+  {"hemail": "fortis@gmail.com", "hotp": "", "__v": {"$numberInt": "0"}, "hPassword": "Santosh1k@", "hname": "Fortis"},
+  {"hemail": "manipal@gmail.com", "hotp": "", "__v": {"$numberInt": "0"}, "hPassword": "Santosh1k@", "hname": "Manipal"},
+  {"hemail": "maxhospital@gmail.com", "hotp": "", "__v": {"$numberInt": "0"}, "hPassword": "Santosh1k@", "hname": "Max Hospital"},
+  {"hemail": "carehospital@gmail.com", "hotp": "", "__v": {"$numberInt": "0"}, "hPassword": "Santosh1k@", "hname": "Care Hospital"},
+  {"hemail": "columbiaasia@gmail.com", "hotp": "", "__v": {"$numberInt": "0"}, "hPassword": "Santosh1k@", "hname": "Columbia Asia"},
+  {"hemail": "medanta@gmail.com", "hotp": "", "__v": {"$numberInt": "0"}, "hPassword": "Santosh1k@", "hname": "Medanta"},
+  {"hemail": "narayana@gmail.com", "hotp": "", "__v": {"$numberInt": "0"}, "hPassword": "Santosh1k@", "hname": "Narayana"},
+  {"hemail": "paras@gmail.com", "hotp": "", "__v": {"$numberInt": "0"}, "hPassword": "Santosh1k@", "hname": "Paras"},
+  {"hemail": "kims@gmail.com", "hotp": "", "__v": {"$numberInt": "0"}, "hPassword": "Santosh1k@", "hname": "KIMS"},
+  {"hemail": "rubyhall@gmail.com", "hotp": "", "__v": {"$numberInt": "0"}, "hPassword": "Santosh1k@", "hname": "Ruby Hall"},
+  {"hemail": "nanavati@gmail.com", "hotp": "", "__v": {"$numberInt": "0"}, "hPassword": "Santosh1k@", "hname": "Nanavati"},
+  {"hemail": "jaslok@gmail.com", "hotp": "", "__v": {"$numberInt": "0"}, "hPassword": "Santosh1k@", "hname": "Jaslok"},
+  {"hemail": "kokilaben@gmail.com", "hotp": "", "__v": {"$numberInt": "0"}, "hPassword": "Santosh1k@", "hname": "Kokilaben"},
+  {"hemail": "globalhospital@gmail.com", "hotp": "", "__v": {"$numberInt": "0"}, "hPassword": "Santosh1k@", "hname": "Global Hospital"},
+  {"hemail": "apollohyd@gmail.com", "hotp": "", "__v": {"$numberInt": "0"}, "hPassword": "Santosh1k@", "hname": "Apollo Hyderabad"},
+  {"hemail": "stjohns@gmail.com", "hotp": "", "__v": {"$numberInt": "0"}, "hPassword": "Santosh1k@", "hname": "St. John's"},
+  {"hemail": "cloudnine@gmail.com", "hotp": "", "__v": {"$numberInt": "0"}, "hPassword": "Santosh1k@", "hname": "Cloudnine"},
+  {"hemail": "rainbowhospital@gmail.com", "hotp": "", "__v": {"$numberInt": "0"}, "hPassword": "Santosh1k@", "hname": "Rainbow Hospital"},
+  {"hemail": "sankara@gmail.com", "hotp": "", "__v": {"$numberInt": "0"}, "hPassword": "Santosh1k@", "hname": "Sankara"},
+  {"hemail": "patelhospital@gmail.com", "hotp": "", "__v": {"$numberInt": "0"}, "hPassword": "Santosh1k@", "hname": "Patel Hospital"}
+]

@@ -1,0 +1,14 @@
+[
+    {
+  "pname": "Rajesh Singh",
+  "pdateofbirth": "1985-03-12",
+  "paddress": "Bhelupur, Varanasi, Uttar Pradesh",
+  "pphoneno": "9456712345",
+  "pheight": "5'9",
+  "pweight": "75kg",
+  "planguage": "Hindi",
+  "pbloodgroup": "O+",
+  "paddharno": "123456789012"
+},
+
+]
